@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05060B"/>
+      <stop offset="1" stop-color="#0E0B22"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="80" y="300" font-family="Space Grotesk, sans-serif" font-size="72" fill="#F5F6FA" font-weight="700">Alisha Khan</text>
+  <text x="80" y="360" font-family="Space Grotesk, sans-serif" font-size="40" fill="url(#txt)" font-weight="600">AI &amp; Data Science Student</text>
+  <text x="80" y="410" font-family="Inter, sans-serif" font-size="24" fill="#9CA3B5">Building intelligent, real-world applications</text>
+</svg>
